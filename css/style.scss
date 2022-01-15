@@ -366,7 +366,7 @@ header {
   .intro-text {
     min-height: 530px;
     color: $white;
-    background-image: url(../../images/bg-pattern-intro-desktop.svg);
+    background-image: url(../images/bg-pattern-intro-desktop.svg);
     background-size: 255%;
     background-repeat: no-repeat;
     background-position: 27% 51%;
@@ -374,7 +374,7 @@ header {
     padding-top: 100px;
     padding-bottom: 100px;
     @media #{$maxMobile} {
-      background-image: url(../../images/bg-pattern-intro-mobile.svg);
+      background-image: url(../images/bg-pattern-intro-mobile.svg);
       background-size: 330%;
       background-position: 35% 35%;
     }

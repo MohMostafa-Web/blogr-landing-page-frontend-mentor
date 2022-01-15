@@ -347,7 +347,7 @@ header .container nav .menus .main-menu .dropdown-list.active .sub-menu {
 .landing .intro-text {
   min-height: 530px;
   color: white;
-  background-image: url(../../images/bg-pattern-intro-desktop.svg);
+  background-image: url(../images/bg-pattern-intro-desktop.svg);
   background-size: 255%;
   background-repeat: no-repeat;
   background-position: 27% 51%;
@@ -357,7 +357,7 @@ header .container nav .menus .main-menu .dropdown-list.active .sub-menu {
 }
 @media (max-width: 575px) {
   .landing .intro-text {
-    background-image: url(../../images/bg-pattern-intro-mobile.svg);
+    background-image: url(../images/bg-pattern-intro-mobile.svg);
     background-size: 330%;
     background-position: 35% 35%;
   }
